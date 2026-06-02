@@ -10,10 +10,10 @@
   },
   "license": "GPL-v3.0-or-later",
   "urls": {
-    "repository": "https://github.com/clfr41/context-miner",
-    "homepage": "https://github.com/clfr41/context-miner",
-    "documentation": "https://github.com/clfr41/context-miner",
-    "issues": "https://github.com/clfr41/context-miner/issues"
+    "repository": "https://github.com/clfr41/apcrote.context-miner",
+    "homepage": "https://github.com/clfr41/apcrote.context-miner",
+    "documentation": "https://github.com/clfr41/apcrote.context-miner",
+    "issues": "https://github.com/clfr41/apcrote.context-miner/issues"
   },
   "host_application": {
     "min_version": "1.0.0",
