@@ -5,15 +5,15 @@
   "name": "上下文挖掘器",
   "description": "从当前会话聊天历史中按主题提取相关信息，可供 Planner 作为 Tool 调用或用户手动使用 /ctx 命令查询。支持调用内置 LLM 或自定义 API。",
   "author": {
-    "name": "apcrote",
-    "url": "https://github.com/apcrote"
+    "name": "clfr41",
+    "url": "https://github.com/clfr41"
   },
   "license": "GPL-v3.0-or-later",
   "urls": {
-    "repository": "https://github.com/apcrote/context-miner",
-    "homepage": "https://github.com/apcrote/context-miner",
-    "documentation": "https://github.com/apcrote/context-miner",
-    "issues": "https://github.com/apcrote/context-miner/issues"
+    "repository": "https://github.com/clfr41/context-miner",
+    "homepage": "https://github.com/clfr41/context-miner",
+    "documentation": "https://github.com/clfr41/context-miner",
+    "issues": "https://github.com/clfr41/context-miner/issues"
   },
   "host_application": {
     "min_version": "1.0.0",
