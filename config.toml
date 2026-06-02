@@ -1,0 +1,15 @@
+[plugin]
+enabled = false
+config_version = "1.0.0"
+
+[extract]
+model = "replyer"
+default_hours = 24
+max_context_chars = 12000
+default_limit = 25
+
+[custom_api]
+enabled = false
+api_url = ""
+api_key = ""
+model = ""
